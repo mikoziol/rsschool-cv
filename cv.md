@@ -1,12 +1,12 @@
 # Mike Kaskader
 
 ## Contact Info:
-mobile: (+48)987-654-321
-email: mike@kaskader.com
+- mobile: (+48) 987-654-321
+- email: mike@kaskader.com
 
 ## Summary:
 Experienced 15+ IT business analyst. Working directly with customer and R&D department. 
-Now, wants to learn web development, focusing on JS, HTMl and CSS. 
+Now, wants to learn web development, focusing on JS, HTML and CSS. 
 
 
 ## Skills
