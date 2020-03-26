@@ -1,26 +1,27 @@
-Mike Kaskader
+# Mike Kaskader
 
-Contact Info:
+## Contact Info:
 mobile: (+48)987-654-321
 email: mike@kaskader.com
 
-Summary:
-- learn Java script and web development 
-- larn phyton
+## Summary:
+Experienced 15+ IT business analyst. Working directly with customer and R&D department. 
+Now, wants to learn web development, focusing on JS, HTMl and CSS. 
 
 
-3. Summary (your goal, wishes, reveal what is important for you, what do you want and why.
-Some kind of self-presentation. In case of lack of experience  Junior Developer sells his/her potential, his/her passion and ability to learn fast. You shouldn't think that everybody is going to teach you when you come to the workplace . Rather being a Junior means always
-learning new things from everywhere etc.).
-4. Skills (e.g. programming languages, frameworks, methodologies, version control, tools etc.)
-5. Code examples (LATEST)
+## Skills
+- PL/SQL
+- certified CCNA
 
-Experience:
+## Code examples (LATEST)
+As being on the position of beginner in web development I can't share any code examples at the moment.
+
+## Experience:
 - 15+ experience in IT business 
 
-Education
-- Telecommunication 
+## Education
+- University of Science and Technology
 
-English
-- fluent in reding & writing
+## English
+Fluent in reding & writing
 
